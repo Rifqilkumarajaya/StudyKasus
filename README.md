@@ -1,5 +1,5 @@
 # Study Kasus
-Aplikasi sederhana untuk kasir
+Aplikasi sederhana untuk kasir, dimana pengguna dapat memilih pesanan dan juga menggunakan voucher tersedia. (Tugas UAS Rifqi Kumara Jaya, 19.11.2728)
 
 # Fitur
 - User dapat memilih, serta menghapus item pada keranjang
